@@ -1,4 +1,4 @@
-# Tik Tac Toe Game
+# Tik Tac Toe Game ![Alt text](image.png)
 A simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
 
