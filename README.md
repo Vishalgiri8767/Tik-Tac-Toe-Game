@@ -1,4 +1,4 @@
-# Tik Tac Toe Game ![Alt text](image.png)
+# Tik Tac Toe Game 
 A simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
 
@@ -9,5 +9,5 @@ It's a two-player game where players take turns marking spaces in a 3x3 grid, ai
 
 ## [Play Game](https://vishalgiri8767.github.io/Tik-Tac-Toe-Game/)
 
-
+[Alt text](image.png)
 
